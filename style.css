@@ -1,5 +1,5 @@
 :root{
-    --violet:#9254fc;
+    --red:#fc4a74;
 }
 
 *{
@@ -41,11 +41,11 @@ section{
     color: #333;
     margin: 2rem 0;
     padding: 1rem;
-    background: rgba(221, 51, 255, 0.05);
+    background: rgba(255, 51, 112, 0.073);
     text-align: center;
 }
 .heading span{
-    color: var(--violet);
+    color: var(--red);
 }
 .btn{
     margin:1rem 0;
@@ -62,7 +62,7 @@ section{
     font-size: 1.7rem;
 }
 .btn:hover{
-    background: var(--violet);
+    background: var(--red);
 }
 header .logo{
     font-size: 3rem;
@@ -70,7 +70,7 @@ header .logo{
     color: #333;
 }
 header .logo span{
-    color: var(--violet);
+    color: var(--red);
 }
 header .navbar a{
     font-size: 2rem;
@@ -78,7 +78,7 @@ header .navbar a{
     padding: 0 1.5rem;
 }
 header .navbar a:hover{
-    color: var(--violet);
+    color: var(--red);
 }
 header .icons a{
     font-size: 2.5rem;
@@ -87,7 +87,7 @@ header .icons a{
     transition: 0.4s;
 }
 header .icons a:hover{
-    color: var(--violet);
+    color: var(--red);
 }
 header #toggler{
     display: none;
@@ -118,7 +118,7 @@ header .fa-bars{
 }
 .home .content span{
     font-size: 3.5rem;
-    color: #e262ff;
+    color: #fc4a74;
     line-height: 1.5;
 }
 .home .content p{
@@ -207,6 +207,7 @@ header .fa-bars{
     display: flex;
     gap: 1.5rem;
     flex-wrap: wrap;
+    margin-top: 4rem;
 }
 .products .box-container .box{
     flex: 1 1 30rem;
@@ -221,7 +222,7 @@ header .fa-bars{
     font-size: 2rem;
     padding: 0.7rem 1rem;
     background: rgba(221, 51, 255, 0.05);
-    color: var(--violet);
+    color: var(--red);
     z-index: 1;
     border-radius: .5rem;
 }
@@ -251,7 +252,7 @@ header .fa-bars{
     line-height: 5rem;
     font-size: 2rem;
     width: 50%;
-    background: var(--violet);
+    background: var(--red);
     color: #fff;
 }
 .products .box-container .box .image .icons a:hover{
@@ -272,7 +273,7 @@ header .fa-bars{
 }
 .products .box-container .box .content .price{
     font-size: 2.5rem;
-    color: var(--violet);
+    color: var(--red);
     padding-top: 1rem;
     font-weight: bolder;
 }
@@ -315,7 +316,7 @@ header .fa-bars{
     width: 100%;
 }
 .contact .row form .box:focus{
-    border-color: var(--violet);
+    border-color: var(--red);
 }
 .contact .row form textarea{
     height: 15rem;
@@ -331,7 +332,7 @@ header .fa-bars{
     border-top: .1rem solid rgba(0, 0, 0, .1);
 }
 .footer .credit span{
-    color: var(--violet);
+    color: var(--red);
 }
 .footer .icons{
     text-align: center;
@@ -345,7 +346,7 @@ header .fa-bars{
     margin: 1rem;
 }
 .footer .icons a:hover{
-    color: var(--violet);
+    color: var(--red);
 }
 
 
