@@ -104,7 +104,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradiant(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(img/icecreambg.jpg) no-repeat;
+    background: url(img/icecreambg.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
