@@ -3,6 +3,12 @@
 Yoghurtz is an online yogurt shop frontend template designed to showcase products, provide information about the shop, and offer a contact form for inquiries.
 Visit the live website - [Yoghurtz](https://yoghurtz.vercel.app/) 
 
+## Preview
+
+![Yogurtz Preview](image1.png)
+
+![Yogurtz Preview](image2.png)
+
 ## Features
 
 - **Product Showcase:** Display your yogurt products with images and descriptions.
