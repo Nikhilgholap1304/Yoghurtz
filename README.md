@@ -9,6 +9,8 @@ Visit the live website - [Yoghurtz](https://yoghurtz.vercel.app/)
 
 ![Yogurtz Preview](image2.png)
 
+![Yogurtz Preview](image3.png)
+
 ## Features
 
 - **Product Showcase:** Display your yogurt products with images and descriptions.
